@@ -1,0 +1,10 @@
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\bin\Debug\011_Label.exe.config
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\bin\Debug\011_Label.exe
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\bin\Debug\011_Label.pdb
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\011_Label.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\_011_Label.Form1.resources
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\_011_Label.Properties.Resources.resources
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\011_Label.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\011_Label.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\011_Label.exe
+C:\Users\konyang\source\repos\Visual_Programming_2025_2\011_Label\obj\Debug\011_Label.pdb
