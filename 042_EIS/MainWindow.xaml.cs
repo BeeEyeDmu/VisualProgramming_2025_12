@@ -63,7 +63,7 @@ namespace _042_EIS
       dept = cbDept.Text;
       pos = cbPos.Text;
 
-      string sql = string.Format("INSERT_INTO eis_table (name, department," +
+      string sql = string.Format("INSERT INTO eis_table (name, department," +
         " position, gender, date_enter, date_exit, contact, comment) " +
         "VALUES ('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}')",
         txtName.Text, dept, pos, gender, dateEnter, dateExit, txtContact.Text, txtComment.Text);
